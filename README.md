@@ -89,4 +89,4 @@ This project demonstrates how statistical analysis and machine learning techniqu
 ---
 
 ## Author
-Rajput Arpana Badshah
+ARPANA RAJPUT
